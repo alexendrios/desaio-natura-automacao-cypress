@@ -1,0 +1,21 @@
+{
+  "name": "desaio-natura-automacao-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Alexandre Pereira Santos",
+  "email": "alex.endrios@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.2.0",
+    "faker-br": "^0.4.1"
+  },
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.0"
+  }
+}

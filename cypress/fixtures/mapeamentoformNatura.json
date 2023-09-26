@@ -1,0 +1,17 @@
+{
+    "btnAcepptCokies":"#onetrust-accept-btn-handler",
+    "btnMenu":"div div.natds5 button span.MuiIconButton-label i",
+    "formInputFistName":"input[name='firstName'",
+    "formInputLastName":"input[name='lastName']",
+    "formInputEmail":"input[name='email']",
+    "formInputSenha":"#password-field",
+    "formInputConfirmeSenha":"#confirmPassword-field",
+    "formInputCpf":"input[name='cpf']",
+    "formInputDataNascimento":"input[name='dateOfBirth']",
+    "obs_SMS":"Desejo receber por SMS novidades e promoções da Natura",
+    "formInputTelefone":"input[name='homePhone']",
+    "radioButtonMasculino":"input[value='noSpecify']",
+    "aceiteTermo":"#acceptedterms",
+    "buttonSubmit":"button[type='submit']",
+    "identificacaoUsuario":"div div div div h6"
+}
